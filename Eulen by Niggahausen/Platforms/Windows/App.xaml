@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="Eulen_by_Niggahausen.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:Eulen_by_Niggahausen.WinUI">
+
+</maui:MauiWinUIApplication>
